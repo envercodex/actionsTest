@@ -1,5 +1,6 @@
 # Add comments to this file
 
+# add second comments to this file to test for commit squashing
 name: GitHub Actions Demo
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [ push, workflow_dispatch ]
